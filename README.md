@@ -1,4 +1,4 @@
-# hiHello-mapchat-
+# hiHello
 Chat and track your friend
 
 # Requirement
