@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858726157416",
+    "firebase_url": "https://chit-chat-69afc.firebaseio.com",
+    "project_id": "chit-chat-69afc",
+    "storage_bucket": "chit-chat-69afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858726157416:android:0cc0e4c49bde17f1ae3fdd",
+        "android_client_info": {
+          "package_name": "com.mapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858726157416-trtq91blo36cchsbl0f1rpgvtst4j4qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapchat",
+            "certificate_hash": "739f51fdbf881a761975a116d9a8f59003fe0b53"
+          }
+        },
+        {
+          "client_id": "858726157416-tqa8fup4gons8kbgvuq4l84aapi6ikl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACis-e4fH2Rx70R1unxgGXC2HngHG3QEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858726157416-tqa8fup4gons8kbgvuq4l84aapi6ikl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
