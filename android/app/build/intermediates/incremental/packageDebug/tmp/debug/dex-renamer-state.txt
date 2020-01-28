@@ -1,4 +1,0 @@
-#Tue Jan 28 11:30:40 WIB 2020
-base.0=F\:\\Arkademy-Project\\CHITCHAT\\hiHello\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-renamed.0=classes.dex
-path.0=classes.dex

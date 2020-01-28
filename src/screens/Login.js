@@ -1,5 +1,5 @@
 import React from 'react';
-import LoginUser from '../components/Logins';
+import LoginUser from '../components/Login';
 
 const Login = props => {
   return (
